@@ -1,0 +1,234 @@
+li{
+    list-style-type: none;
+    float:left;
+    padding:20px;
+    font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    color: rgb(51, 51, 51);
+    background-color: rgb(255, 255, 255);
+}
+.list{
+    padding-left: 1px;
+
+}
+.ic1{
+    font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:15px;
+    color: rgb(51, 51, 51);
+}
+
+img{
+    width:58%;
+    height:77px;
+}
+button{
+    background-color: rgb(243, 244, 245);
+    color: rgb(189, 199, 210);
+    width:120%;
+    height:40px;
+    font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    border-color:azure;
+}
+.icon{
+    padding-top: 1px;
+}
+.profile{
+    padding-left:15px;
+}
+.img1{
+    width:100%;
+    height:450px;
+}
+.sub{
+    width:10%;
+    height:90px;
+    padding:1px;
+}
+.source{
+    width:32%;
+    height:580px;
+    padding-left:40px;
+    padding:6px;
+}
+pre{
+    font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+b{
+    font-weight:bolder;
+    font-size: 25px;
+    padding-left:1px;
+}
+a{
+    font-weight:500;
+    font-size: 15px;
+}
+.collection{
+    width:18%;
+    height:14%;
+    padding:10px;
+}
+.imgs{
+    padding-left: 45px;
+}
+.banner{
+    width:100%;
+    height:500px;
+}
+.screen{
+    background-color: rgb(195, 47, 69);
+    width:100%;
+    height: auto;
+    color: aliceblue;
+    font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.sc{
+    padding-left: 560px;
+    padding-top: 15px;
+}
+.main{
+    font-size: 15px; 
+    font-weight: 200;
+}
+.subline{
+    font-size: 22px;
+}
+.view{
+    padding-left: 250px;
+}
+.end{
+    font-size: 15px;
+}
+.content{
+    font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: rgb(51, 51, 51);
+    padding-left: 70px;
+}
+.head{
+    font-size:15px;
+}
+.subhead{
+    font-size: 13px;
+    font-weight:800;
+}
+.foot{
+    font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:15px;
+    color:rgb(51, 55, 56);
+    margin-left: 52px;
+}
+.fh{
+    font-size:15px;
+}
+.last{
+    width:100%;
+    height:40px;
+    background-color: rgb(247, 152, 224);
+    color:beige;
+    text-align: center;
+}
+.tab{
+    width:20%;
+    height:250px;
+    border:1px solid black;
+    text-align: center;
+    float: left;
+}
+.tab1{
+    width:20%;
+    height:150px;
+    border:1px solid black;
+    text-align: center;
+    float: left;
+}
+.list:hover{
+    color:rgb(210, 90, 178);
+    text-decoration: underline;
+}
+a,.ic1:hover{
+    color:rgb(210, 90, 178);
+    text-decoration:none;
+}
+.download{
+    width:100%;
+    height:100px;
+    background-color: rgb(42, 40, 40);
+    color:aliceblue;
+    padding-left: 100px;
+    font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:15px;
+    font-weight: 600;
+}
+
+hr{
+    height: 2px;
+    background-color: rgb(116, 111, 111);
+}
+.ig{
+    width:30%;
+    height:40px;
+}
+.input{
+    width:50%;
+    background-color: rgb(116, 111, 111);
+    border:1px solid antiquewhite;
+}
+.submit{
+    background-color: rgb(116, 111, 111);
+    border:1px solid antiquewhite;
+}
+::placeholder{
+    color: black;
+}
+.time{
+    font-size: 12px;
+
+}
+.point{
+    width:100%;
+    height:120px;
+    background-color:rgb(213, 218, 223);
+    color:black;
+    font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.pt{
+    font-size:15px;
+    font-weight:200;
+    padding-left: 100px;
+}
+.pt1{
+    padding-left: 100px;
+    font-size:15px;
+}
+.pt2{
+    padding-left:390px ;
+    font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:15px;
+    font-weight:200;
+}
+
+.facebook{
+    padding:3px;
+}
+.pt4{
+    padding:3px;
+    padding-right:105px;
+}
+.underline{
+    text-decoration: underline;
+    color:rgb(252, 166, 205);
+}
+.instagram{
+    padding-left:4px;
+}
+
+
+
+
+
+
+
+
+
+
+
